@@ -19,6 +19,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
+        "../node_modules/bootswatch/dist/lux/bootstrap.min.css",
         "styles.scss"
       ],
       "scripts": [],
